@@ -20,7 +20,7 @@ export default function PositionComponent() {
       <p>Direction Information:
         Top {'=>'} North, Bottom {'=>'} South, Right {'=>'} East, Left {'=>'} West
       </p>
-      <p className="mb-4">Position: ({robotPosition.x}, {robotPosition.y})</p>
+      <p className="mb-4" data-testid="positionDesc">Position: ({robotPosition.x}, {robotPosition.y})</p>
     </div>
   )
 }
