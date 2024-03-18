@@ -2,7 +2,7 @@
 
 This is a technical assessment for Lyka. This project (in part 1) shows a layout with robot that is supposed to move only within a boundary.
 
-Later: Should render the cargo crates and add pickup and drop mechanism.
+`Later (Part 2):` Should render the cargo crates and add pickup and drop mechanism.
 
 `Please read carefully for proper set up.`
 
