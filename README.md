@@ -52,14 +52,14 @@ cd warehouse-robot && npm i
 ```
 npm run test
 ```
-[ss-jest](https://github.com/bishwo-pratap/warehouse-robot/assets/19890839/6b5ad031-8eeb-4876-8655-7afd0cee874c)
+![ss-jest](https://github.com/bishwo-pratap/warehouse-robot/assets/19890839/6b5ad031-8eeb-4876-8655-7afd0cee874c)
 
 
 #### 4. Executing end-to-end tests with webServer config
 ```
 npx playwright test --ui
 ```
-[ss-playwright](https://github.com/bishwo-pratap/warehouse-robot/assets/19890839/c3fcbf9d-5c5d-4d9f-9654-1064b77889db)
+![ss-playwright](https://github.com/bishwo-pratap/warehouse-robot/assets/19890839/c3fcbf9d-5c5d-4d9f-9654-1064b77889db)
 
 #### 5. Starting the server for the demo
 ```
