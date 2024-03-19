@@ -65,4 +65,4 @@ npx playwright test --ui
 ```
 npm run dev
 ```
-![screencapture-localhost-3000-2024-03-19-10_48_49](https://github.com/bishwo-pratap/warehouse-robot/assets/19890839/312676c3-44c2-48d0-8b90-63ab4a8233e9)
+![warehouse](https://github.com/bishwo-pratap/warehouse-robot/assets/19890839/828d844c-ffa4-4e82-aaaf-49372c96f6c9)
