@@ -10,7 +10,7 @@ export default function Home() {
       <div className="mainDiv">
         <h1 className="text-3xl font-bold mb-4">Warehouse Robot</h1>
         <PositionComponent />
-        <div className="flex flex-column">
+        <div className="flex flex-column space-x-12">
           <ButtonComponent />
           <WarehouseComponent />
         </div>
