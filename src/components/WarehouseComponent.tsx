@@ -27,7 +27,7 @@ export default function WarehouseComponent() {
             return (
               <div
                 data-testid="grid-cell"
-                className={`flex flex-col cell w-14 h-14 border border-gray-300 items-center justify-between`}
+                className={`flex flex-col cell w-14 h-14 border border-gray-300 items-center justify-between bg-blue-100`}
                 key={colIndex}
               >
                 {colIndex === robotPosition.x && rowIndex === robotPosition.y
