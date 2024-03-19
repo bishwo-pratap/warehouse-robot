@@ -3,7 +3,7 @@ import useRobotStore from "@/store/RobotStore"
 
 export default function ButtonComponent() {
   const handleActions = useRobotStore((state) => state.handleActions)
-  const btnClass = 'py-2 px-4 rounded mr-2 bg-gray-400 text-white hover:bg-gray-500 m-2';
+  const btnClass = 'rounded-full flex items-center justify-center space-x-2 py-2 px-4 rounded mr-2 bg-gray-400 text-white hover:bg-gray-500 m-2';
   return (
     <div className="my-4">
       <div className=" mr-4">
