@@ -20,7 +20,7 @@ export default function WarehouseComponent() {
   }, [positionState])
 
   return (
-    <div className="grid">
+    <div className="grid mt-2">
       {ROWS.map((_, rowIndex) => (
         <div className="row flex m-0" key={rowIndex}>
           {COLUMNS.map((_, colIndex) => {
