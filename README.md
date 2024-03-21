@@ -10,6 +10,7 @@ This is a technical assessment for Lyka. This project (in part 1) shows a layout
 - [NextJS](https://nextjs.org/): React Based Framework
 - [Zustand](https://www.npmjs.com/package/zustand): State Management Library
 - [TailwindCSS](https://www.npmjs.com/package/tailwindcss): Styling Library
+- [flowbite-react](https://www.npmjs.com/package/flowbite-react): Component Library based on TailwindCSS
 - [Jest](https://www.npmjs.com/package/jest): Testing library
 - [@testing-library/react](https://www.npmjs.com/package/@testing-library/react): Library for testing components for React app
 - [Playwright](https://www.npmjs.com/package/playwright): End-to-end UI testing library
